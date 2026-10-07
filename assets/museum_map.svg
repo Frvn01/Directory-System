@@ -1,0 +1,61 @@
+<svg width="850" height="500" viewBox="0 0 850 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blueprint Background -->
+  <rect width="850" height="500" fill="#EFE8DD"/>
+  
+  <!-- Outer Wall Border -->
+  <rect x="20" y="20" width="810" height="460" fill="none" stroke="#7A6855" stroke-width="6"/>
+
+  <!-- Top Row -->
+  <rect x="20" y="20" width="110" height="110" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="75" y="75" fill="#5C4D3C" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Restrooms</text>
+
+  <rect x="130" y="20" width="180" height="110" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="220" y="75" fill="#5C4D3C" font-size="16" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Special Exhibit B</text>
+
+  <rect x="310" y="20" width="230" height="110" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="425" y="75" fill="#5C4D3C" font-size="18" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Egypt Exhibit</text>
+
+  <rect x="540" y="20" width="170" height="110" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="625" y="75" fill="#5C4D3C" font-size="16" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Special Exhibit A</text>
+
+  <rect x="710" y="20" width="120" height="60" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="770" y="50" fill="#5C4D3C" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Curator Office</text>
+
+  <rect x="710" y="80" width="120" height="150" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="770" y="155" fill="#5C4D3C" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Lecture Theatre</text>
+
+  <!-- Middle Row -->
+  <rect x="310" y="130" width="230" height="245" fill="#FFFFFF" stroke="#7A6855" stroke-width="3"/>
+  <text x="425" y="252" fill="#5C4D3C" font-size="22" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Great Hall</text>
+
+  <rect x="540" y="130" width="170" height="245" fill="#FFFFFF" stroke="#7A6855" stroke-width="3"/>
+  <text x="625" y="252" fill="#5C4D3C" font-size="18" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Rome Gallery</text>
+
+  <rect x="710" y="230" width="120" height="145" fill="#FFFFFF" stroke="#7A6855" stroke-width="3"/>
+  <text x="770" y="302" fill="#5C4D3C" font-size="16" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Greek Gallery</text>
+
+  <!-- Bottom Row -->
+  <rect x="20" y="375" width="110" height="105" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="75" y="427" fill="#5C4D3C" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Elevators</text>
+
+  <rect x="130" y="375" width="180" height="105" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="220" y="427" fill="#5C4D3C" font-size="16" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Cafe &amp; Shop</text>
+
+  <rect x="310" y="375" width="230" height="105" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="425" y="427" fill="#5C4D3C" font-size="16" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Entrance Lobby</text>
+
+  <rect x="540" y="375" width="140" height="105" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="610" y="427" fill="#5C4D3C" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Special Exhibit A</text>
+
+  <rect x="680" y="375" width="150" height="105" fill="#FAFAF8" stroke="#7A6855" stroke-width="3"/>
+  <text x="755" y="427" fill="#5C4D3C" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle">Special Exhibit B</text>
+
+  <!-- Doors / Pathways (Visual openings) -->
+  <!-- Main Entrance -->
+  <rect x="390" y="476" width="70" height="8" fill="#FFFFFF"/>
+  <line x1="390" y1="480" x2="460" y2="480" stroke="#EFE8DD" stroke-width="8"/>
+  <text x="425" y="465" fill="#9C8875" font-size="10" font-family="sans-serif" text-anchor="middle">MAIN ENTRANCE</text>
+
+  <!-- Corridor connection Left -->
+  <rect x="25" y="130" width="100" height="245" fill="#EFE8DD"/>
+</svg>
